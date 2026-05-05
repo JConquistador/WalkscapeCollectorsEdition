@@ -96,9 +96,9 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Travel East to Kallaheim, go to the bank and click on the G **\[Easy Achievement 4\]**  
 * **\*\*Important\*\***: Save EVERY Fine Stick, Fine Stone, and Fine Salt Crystal you collect. Don’t sell them, use them, or turn them in as Job rewards until after you have completed some of the harder achievements later on in the guide.  
 * Create 30 Copper Bars, then Copper Shields to level 6 and Copper Swords to level 10\. Then smith as many Bronze Bars as you can.  
-* Create a Simple Bowstring, a Birch Hunting Bow, and a Wooden Shield.  
-* Create as many Basic Hatchets/Pickaxes, Jarvonian Flower Necklaces, Planks, Pine Toolboxes, and Shrimp as you have materials for.  
-* We need some starting coins so keep the best quality of each crafted equipment/tool and sell the rest. Sell any other Fine materials, Berries, Eggs, and any rusty tools you may have found in rusty chests. Keep 3 items to sell in the next couple of towns. Any random junk is fine, for example Fishbones don’t have any use at the moment  
+* Create a Simple Bowstring, a Birch Hunting Bow, Wooden Shield, and a Good (Green) quality Pine Toolbox.  
+* Create as many Basic Hatchets/Pickaxes, Jarvonian Flower Necklaces, Planks, and Shrimp as you have materials for.  
+* We need some starting coins so keep the best quality of each crafted equipment/tool and sell the rest. Sell any other Fine materials, Berries, Eggs, and any rusty tools you may have found in rusty chests. Keep 3 items to sell in the next couple of towns. Any random junk that has limited use is fine, for example Rusty tools, Fishbones, thistle, nettles, and/or leftover sticks/stones.  
   * Sell items to BOTH Frosty Finds AND Icy Goblet shops, its part of an achievement (2/20)  
 * Buy a beer from The Icy Goblet and consume it **\[Easy Achievement 5\]**  
 * Buy the **\!\!Keen Eye Lenses** from Frosty Finds  
@@ -178,17 +178,18 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 **Getting Tailored Gear**
 
 * Bank everything and take out your best **Tailoring** gear and enough Hemp and Flax to create 200 Linen Cloth (each cloth requires 2 Hemp or Flax). Travel to Frusenholm to make the Linen Cloth and return to Kallaheim.  
-* Bank everything and take out your best **Hunting** gear and 450 plants (excluding Grass). Plants you should have include Berries, Flax, Hemp, Moondaisy, Nettle, Snowdrop, Thistle and Wheat.  
-* Travel back to Frusenholm and do Bird Feeding until you run out of plants.  
-* Return to Kallaheim and with your best **Carpentry** gear make as many Bronze Arrows as you can.  
+* Bank everything and take out your best **Hunting** gear and 350 plants (excluding Grass, Showdrop, and Moondaisy). Plants you should have include Berries, Flax, Hemp, Nettle, Thistle and Wheat.  
+* Travel back to Frusenholm and do Bird Feeding until you have reached level 25 Hunting and have at least 60 total Grass  
+* Return to Kallaheim and with your best **Carpentry** gear make at least 100 Bronze and/or Copper Arrows. If you lack bars/logs, get some more in the Pit of Pittance and Disenchanted Forrest  
 * Bank everything and take out your best **Hunting** gear including your Hunting Bow, Ring of Homesickness, and all of your Arrows. Also take out the pins/tags you got from Search Team  
 * Go to the Horn of Respite, sell your pins/tags (7/20), buy a $$Quaint Quiver and a **\!\!Rusty Diving Torso** (you should have at least 100 tokens from achievement rewards).   
 * Go Southwest to Sanguine Hills and do Wolf Hunting to level 35 and until you have enough hide to make 60 Basic Leather (each one takes 1 Basic Hide or 5 Hide Scraps).  
-  * If you did not hit 25 Hunting from Bird Feeding, go to Nomad Woods and do Squirrel Hunting to 25 first.  
 *  Return to Kallaheim and take out your best **Quality Outcome Tailoring** gear, as well as your 200 Linen Cloth, 60 Grass and enough Hide/Hide Scraps to make 60 Basic Leather  
 * Go to Frusenholm and turn all of your Hide/Hide Scraps into Basic Leather. Create Grassknot and Apprentice gear. Once you reach the level for the next item begin crafting it immediately until you can make and equip Apprentice gear. Once you have Apprentice gear in each slot, keep making Apprentice items until you get Great (Blue) quality of each (prioritizing Gloves), then do the same for Grassknot (again prioritizing Gloves). If you get Blue quality for every piece save the rest of your materials.  
   * Grassknot Mitts (13) \> Chaps (15) \> Tunic (17) \> Apprentice Handwear (18) \> Breeches (20) \> Vest (22)  
+  * If you have leftover Linen/Grass, make Grassknot equipment to get your Tailoring level higher. You can go for Apprentice Gear too but save Leather for the next step.  
 * Return to Kallaheim and if you have any leftover Leather and Spruce Logs/Planks, using your best **Quality Outcome Carpentry** gear create the best Comfy Fishing Chair that you can.
+
 
 *Checkpoint*
 
@@ -215,7 +216,8 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Casbrant Fields and Cut Spruce Trees until you have enough for 25 Spruce Planks  
 * Go to Barbantok and do Wood Carving for a **\!\!Carving Knife**, the \#\#Wooden Carved Bear Figurine **\[Collectible 3\]** and Carpentry to level 20 if not there.  
 * Do Tinkering for a **\!\!Wire Saw**, the \#\#Silver Pocket Watch **\[Collectible 4\]**, 200 times for a screwdriver bonus, and level 45 Crafting  
-* Return to Kallaheim and with your best **No Materials/Double Rewards Carpentry** gear turn Spruce Logs into Planks until you have 25 planks.
+* Return to Kallaheim and with your best **No Materials/Double Rewards Carpentry** gear turn Spruce Logs into Planks until you have 25 planks.  
+* (OPTIONAL) If you got the Wire Saw and you have enough materials, try and get your trinketry up to level 12 to equip it. Create Jarvonian Flower Necklaces and shape all of your Rough Opals. If you got to level 5 but not to level 8, make 1-4 Silver Rings to hit level 8\. Once at level 8, shape all of your Star Pearls. If you got to level 10 but did not get to 12, you can make 1-2 Silver Opal Rings to hit level 12\.
 
 *Checkpoint*
 
@@ -227,18 +229,26 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 **Return to Port Skildar, prepping for Tool Upgrades**
 
-* Equip your best **Quality Crafting** gear, get out at 25 Iron Bars, 25 Spruce Planks, 10 Twine (or enough Flax to make 10 Twine), 1 Silver Bar, 8 Bronze Bars, and your Simple Wrench, Pan, Saw, Hammer, and Sewing Needle  
-* Go to Frusenholm and create Good (Green) quality Iron Pickaxe/Hatchet/Sickle. Upgrade the Simple Sewing Needle to a Silver one and the other tools to their Bronze counterparts. DO NOT upgrade your simple chisel because you need to be at Trinketry level 14 to use it.   
-  * At any point if you get a walking stick from an agility chest, you can use 2 silver bars to turn it into a Wanderlust Walking Stick.  
+* From here on out, keep your eyes open for activity chest drops which can be upgraded (try to use Fine materials when upgrading for increased quality outcome\!). Consider making these items in Vastalume where the services have an intrinsic 5% No Materials Consumed or an advanced service location with similar material efficiency and/or quality bonuses like Winter Waves Glacier for Smithing or Halfling Campgrounds for Carpentry. Here are some particularly powerful upgrades compared to their base versions:  
+  * Walking Stick  
+  * Crafting Pants \+ Slipstick (this makes a new pair of pants, so make sure you still have a Slipstick left over)  
+  * Forge Bellows  
+  * Steel-toe Boots  
+  * Durable Fabric Cutting Mat  
+  * Miner’s Magnet  
+  * Big Basket \+ Log Basket  
+  * Sturdy Fishing Rod Rest  
+* Equip your best **Quality Crafting** gear, get out 25 Iron Bars, 25 Spruce Planks, 10 Twine (or enough Flax to make 10 Twine), 1 Silver Bar, 8 Bronze Bars, and your Simple Wrench, Pan, Saw, Hammer, and Sewing Needle. You can also take 2 more bronze bars and your Simple Chisel if your Trinketry is already level 14\.  
+* Go to Frusenholm and create Good (Green) quality Iron Pickaxe/Hatchet/Sickle. Upgrade the Simple Sewing Needle to a Silver one and the other tools to their Bronze counterparts.  
 * Return to Kallaheim and get your best **Cooking** gear  
 * Travel South from Casbrant Fields to Azurazera  
 * Do Soup Kitchen Volunteering for **\!\!Soup Kitchen Badge** **\[Collectible 5\]** and at least level 37 Cooking  
-  * This collectible is a bit harder to find, but we need higher level cooking for several achievements and is necessary to unlock the advanced kitchen  
+  * This collectible is a bit harder to find, but it is necessary to unlock the advanced kitchen and we need higher level cooking for several achievements anyway  
 * Return to Kallaheim and cook a Jelly Sandwich (you will need to cook 2x bread from wheat first) **\[Normal Achievement 5\]**  
-* Get your best **Carpentry** and **Smithing** gear, go to Centaham to buy a Sewing Needle, then to Port Skildar and do Brig Repair to 45 Carpentry  
+* Get your best **Carpentry** and **Smithing** gear, go to Port Skildar and do Brig Repair to 45 Carpentry  
 * Do Horseshoe Making to level 45 Smithing and a $$Cooling Icicle Trinket  
-* Return to Kallaheim and get your best **Tailoring** gear  
-* Go back to Port Skildar and do Sail Repair to 40 Tailoring and a $$Spider Trinket  
+* Return to Kallaheim and get your best **Tailoring** gear and any leftover Linen Cloth  
+* Go back to Port Skildar and do Sail Repair to 40 Tailoring and a $$Spider Trinket. Use the Linen cloth for extra XP as Sail Repair is very slow leveling.  
 * Return to Kallaheim and get your **Pole Fishing** gear  
 * Go back to Port Skildar to do Sea Fishing (Rod) to Level 40  
 * Return to Kallaheim and equip your best **Efficiency** **Foraging** Gear  
@@ -249,8 +259,6 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * If you have not yet found a pair of **\!\!Rusty Diving Leggings** in a Sunken Chest, do Seashell Searching in the Beach of Woes until you do  
 * Buy a Woodpucker from Frusenholm and a Simple Sewing Needle from Centaham and go back to Kallaheim to bank everything  
 * Equip your Rusty Diving Set and **Traveling** gear  
-    
-    
   
 
 
@@ -276,16 +284,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 * Go to Port Skildar then Northeast and East to Vastalume  
 * You need a diving set equipped in Syrenthia at all times, so the very first thing we want to do is replace the terrible Rusty Diving set so we’re not as heavily penalized. Plus we need higher tier diving sets to access all of Syrenthia.  
-* From here on out, keep your eyes open for the following activity chest drops which can be upgraded (make sure you use Fine materials when upgrading\!) and are particularly powerful compared to their basic versions:  
-  * Walking Stick  
-  * Crafting Pants \+ Slipstick (this makes a new pair of pants, so make sure you still have a Slipstick left over)  
-  * Forge Bellows  
-  * Steel-toe Boots  
-  * Durable Fabric Cutting Mat  
-  * Miner’s Magnet  
-  * Big Basket \+ Log Basket  
-  * Sturdy Fishing Rod Rest  
-* While here I **STRONGLY** advise doing the job board whenever you can to get Syrenthia Chests. We particularly want the $$Pearl Amulet which is quite easy to find and we need to hit level 3 reputation to unlock the Undercurrent shop.  
+* While here I **STRONGLY** advise doing the job board whenever you can to get Syrenthia Chests. We particularly want the $$Pearl Bracelet which is quite easy to find and we need to hit level 3 reputation to unlock the Undercurrent shop.  
 * Equip your best **Underwater Efficiency Foraging** gear  
 * Go East to the Kelp Forest  
 * Do Kelp Foraging for 15 Sweet Kelp and at least 24 Kelp  
@@ -313,6 +312,9 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * With your best **Underwater Efficiency Mining** gear, go north from Vastalume to the Underwater Cave and Mine Volcanic Rock for 12 Volcanic Rocks  
 * Return to Vastalume and with your best **Underwater Crafting** gear turn those 12 Volcanic Rocks and 12 leftover Hardened Kelp from the previous step into 6 Hydrilium. Then using your best **Underwater Quality Outcome Smithing** gear, create one of each of the Expert Diving Set (Hydrilium Diving xxx)  
 * With your best **Underwater Efficiency Crafting** gear return to Elara’s Lagoon and do Underwater Basket Weaving 50 times **\[Normal Achievement 6\]**, a $$Flatpack Shark, and level 58 Crafting  
+* Return to Vastalume and with your best **Underwater Efficiency/Fine Item Agility** gear do Merfolk Dancing for the $$Merfolk Dress, a **\!\!Dolphin Egg**, the \#\#Letter from A. A. **\[Collectible 6\]**, and **Syrenthia Faction Reputation Level 3**  
+  * Sell an item to each of the 3 shops in Vastalume: Pearl of the Sea, Sunken Anchor, Undercurrent (10/20).  
+  * Start hatching and leveling your Dolphin once you get it  
 * Now we want to make some decent Hydrilium tools. Each Great Quality tool will take around 20 attempts to make, so farm the following:  
   * **Underwater Efficiency/Fine Item Woodcutting** gear \-\> Kelp Forest  
     * Coral Cutting for 120 Coral  
@@ -321,19 +323,16 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * **Underwater Efficiency/Fine Item Mining** gear \-\> Underwater Cave  
     * Mine Volcanic Rock for 280 Volcanic Rocks  
 * Return to Vastalume do the following transformations (remember to use No Material/Double Rewards for all transformations)  
-  * **Underwater Carpentry** gear \-\> Turn all Coral into Coral Planks. Create as many Bronze and Copper Arrows as you can.  
+  * **Underwater Carpentry** gear \-\> Turn all Coral into Coral Planks. Also create as many Bronze and Copper Arrows as you can.  
   * **Underwater Cooking** gear \-\> Turn 320 Kelp into 160 Hardened Kelp  
-  * **Underwater Crafting** gear \-\> Turn 140 Hardened Kelp and 280 Volcanic Ore into 140 Hydrilium. Turn 50 Hemp into 50 Simple Bowstrings  
+  * **Underwater Crafting** gear \-\> Turn 140 Hardened Kelp and 280 Volcanic Ore into 140 Hydrilium.  
   * **Underwater Crafting** gear \-\> Turn 20 Hardened Kelp into 20 Kelp Twine  
-  * **Underwater Smithing** gear \-\> Turn 140 Kelp and 140 Hydrilium into 140 Hydrilium Bars. Create as many Steel Bars as you can.  
+  * **Underwater Smithing** gear \-\> Turn 140 Kelp and 140 Hydrilium into 140 Hydrilium Bars. Also create as many Steel Bars as you can.  
   * **Underwater Quality Outcome Crafting** gear \-\> Make Great (Blue) Hydrilium tools:  
-    * Hatchet, Pickaxe, Sickle, Wrench (Buy simple wrenches from Undercurrent for 5 seashells each)  
+    * Hatchet, Pickaxe, Sickle, Wrench (Buy simple wrenches from Undercurrent for 5 seashells each). Make the wrenches first to help with crafting the rest.  
     * If you have Farganite Bars and Mangrove Planks from activity chests, create the best quality Farganite Hatchet and Pickaxe that you can  
-    * Also create one Jellyfishing Net (you should have a Sturdy Branch from activity chests, if not we’ll buy a net later on) and 50 or so bowstrings.  
+    * Also create 50 Simple Bowstrings and one Jellyfishing Net (you should have a Sturdy Branch from activity chests, if not we’ll buy a net later on).  
   * **Underwater Quality Outcome Carpentry** gear \-\> Make a Great (Blue) Oak Hunting Bow if you can. You should have a stockpile of Oak logs from Woodcutting Chests.  
-* With your best **Underwater Find Collectibles Agility** gear do Merfolk Dancing for the $$Merfolk Dress, a **\!\!Dolphin Egg**, the \#\#Letter from A. A. **\[Collectible 6\]**, and **Syrenthia Faction Reputation Level 3**  
-  * Sell an item to each of the 3 shops in Vastalume: Pearl of the Sea, Sunken Anchor, Undercurrent (10/20).  
-  * Start hatching your Dolphin Egg once you get it  
 * I recommend Smithing your metal scrap into Bronze Bars and buying some Simple Pans/Saws at Undercurrent to upgrade to their Bronze counterparts and try to get a Great Quality of each  
   * You can also try the same for Gold Sewing Needles, but take care, you will want a decent supply of Gold bars (15+) to level Trinketry in GDTE.  
 * Take out your Ring of Homesickness, go Northwest to the Darktide Trench **\[Hard Achievement 1\]**, and teleport back to Kallaheim
@@ -354,8 +353,8 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * If you want to delay the purchase of the Backpack (+4 Inventory space) you only need 6,089 coins, but I highly recommend getting it before heading to GDTE.  
 * Return to Kallaheim and get your best **Traveling** and **Chest Finding** **Agility** gear (including your Pine Skis) and 4 items to sell.  
 * Go to Frusenholm and buy the Oak Skis (89) and Backpack (4,999)  
-* Go NorthEast from Centaham to Fort of Permafrost, buy the \#\#Jarvonian Letter of Passage **\[Collectible 7\]** for 4,500 coins **\[Easy Achievement 15\]**  
-* Go East to Noiseless Pass and do Skate Skiing for a **\!\!Reindeer Egg** and 50 times to unlock the use of Oak and Super Skis  
+* Go NorthEast from Centaham to Fort of Permafrost, buy the \#\#Jarvonian Letter of Passage **\[Collectible 7\]** for 4,500 coins  
+* Go East to Noiseless Pass **\[Easy Achievement 15\]** and do Skate Skiing for a **\!\!Reindeer Egg** and 50 times to unlock the use of Oak and Super Skis  
   * Once your Dolphin is Hatched, start hatching your Reindeer Egg  
 * Get Trellin reputation up to at least level 2 for the **\!\!Trusty Tent**, and Erdwise reputation up to level 5 for the full Proper set and to unlock Guard Duty. Do this by completing jobs in Granfiddich, Everhaven, and Blackspell Port.  
   * **\*\*REMEMBER\*\*** do NOT accept any Fine Wooden Stick job requests  
@@ -380,7 +379,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 **Prepping for Tailoring Upgrades**
 
 * Equip your best **Efficiency Hunting** gear including your Copper/Bronze Arrows.  
-* Go to Mangrove Forest and do Deer Hunting at least 200 times, get 60 Animal Fur and enough Hide/Scaps to make 240 Leather  
+* Go to Mangrove Forest and do Deer Hunting at least 200 times, get 60 Animal Fur and enough Hide/Scaps to make 240 Leather. You’ll likely need upwards of 400 arrows to get enough Fur.  
 * Return to Salsfirth and equip your best **Collectible Woodcutting** gear  
 * Go Southeast from Granfiddich to Warrenfield and Cut Willow Trees for \#\#Weeping Willow Tear **\[Collectible 9\]**, 250 Willow Logs and until your Woodcutting is level 50  
 * Return to Salsfirth and get your best **No Materials/Double Rewards Carpentry** gear as well as two items to sell. Bring enough material to make 90 Willow Planks (2 Willow Logs per plank).  
@@ -410,8 +409,8 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 **Tailoring, Hunting and Halflings**
 
 * Return to Salsfirth. If you did not unlock the Halfling Zone, do Venture into the Woods with your **Efficiency Foraging** gear and get your Halfling reputation up to level 2\.  
-* Equip your best **Efficiency Woodcutting** gear and 3 light sources, go to the Witched Woods and cut Bamboo Logs for a **\!\!Mummy Egg** and at least 250 Bamboo Logs. Start hatching your Mummy Egg immediately. **\[Normal Achievement 14\]**  
-* Bank everything in Salsfirth and get your best **No Materials/Double Rewards Smithing** gear as well as enough bars to make 20 sets of level 20+ arrows and 20 sets of level 30+ arrows. Iron (20) uses Spruce Logs, Steel (30) uses Maple Logs, and Tarsillium (40) uses Mangrove Logs.  
+* Equip your best **Efficiency Woodcutting** gear and 3 light sources, go to the Witched Woods and cut Bamboo Logs for a **\!\!Mummy Egg** and at least 400 Bamboo Logs. Start hatching your Mummy Egg immediately. **\[Normal Achievement 14\]**  
+* Bank everything in Salsfirth and get your best **No Materials/Double Rewards Smithing** gear as well as enough bars to make 20 sets of level 20+ arrows and 20 sets of level 30+ arrows. Iron (20) uses Spruce Logs, Steel (30) uses Maple Logs, and Tarsillium (40) uses Willow Logs.  
 * Go to Granfiddich to smith your bars.  
 * Go to Salsfirth and take out your **No Materials/Double Rewards Carpentry** gear and the bars you just made as well as their associated logs and feathers.  
 * Go to Halfling Campgrounds and make 20 sets of level 20+ arrows and 20 sets of level 30+ arrows  
@@ -447,11 +446,11 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Blackspell Port and do Erdwise Dumpster Diving for 55 Foraging and a **\!\!Shrimp Trinket**  
 * Bank all the drops in Bilgemont Port, equip your best **Efficiency/XP Carpentry** gear and return to Blackspell Port  
 * Do Hull Repair until your Carpentry is level 58  
-* Bank all the drops in Bilgemont Port, equip your best **Efficiency/XP Tailoring** gear and return to Blackspell Port. You can also bring along any Linen Cloth you have if you want an extra XP boost, but save at least 350 or so in the bank if you have that many.  
+* Bank all the drops in Bilgemont Port, equip your best **Efficiency/XP Tailoring** gear and return to Blackspell Port. Bring along Linen Cloth for an extra XP boost, but save at least 350 or so in the bank.  
 * Do Large Sail Repair for a **\!\!Spider Trinket**, $$Sailor’s Hat, and until your Tailoring is level 58  
 * Bank everything in Bilgemont Port and equip your best **Efficiency** **Agility** gear  
 * Head South from Blackspell Port to the Red Coast  
-* Do Bodysurfing for a **\!\!Life Vest**, **\!\!Eel Trinket**, **\!\!Shark Trinket** and at least 100 times **\[Hard Achievement 2\]**  
+* Do Bodysurfing for a **\!\!Life Vest**, **\!\!Eel Trinket**, **\!\!Shark Tooth Trinket** and at least 100 times **\[Hard Achievement 2\]**  
 * Return to Bilgemont Port and equip your best **Efficiency** **Agility** gear including a Life Vest  
 * Go to Old Arena Ruins and do Kayaking for a **\!\!Lucky Rabbit Foot Trinket** and a **\!\!Tortoise Egg**  
   * Start hatching your Tortoise Egg and equip the Tortoise pet for any non-agility activity.  
@@ -534,7 +533,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Somewhere in this section you may get the Adoring Fan Statue from Achievement point rewards. This is a great way to earn passive Adventure Guild Tokens. Similar to the Zip Pouch, if you have mediocre tool options I’d strongly recommend using this.  
 * While in Jarvonia, prioritize leveling the Reindeer Pet until it reaches Adulthood, you should also have hatched 5 pets by now **\[Normal Achievements 22, 23\].**  
 * If you don’t have a Grappling Hook or Lily Pad, using your best **No Materials/Double Rewards Crafting** gear Upcycle Trash until you find a and $$Simple Rope  
-* Using your best **No Materials/Double Rewards Cooking** gear, make 200ish Jelly Sandwiches  
+* Using your best **No Materials/Double Rewards Cooking** gear, make 250ish Jelly Sandwiches  
 * Equip your best **Quality Outcome Tailoring** gear, take out 160 Linen Cloth, 60 Basic Leather, and 60 Aerodynamic Thread. Create the Linen/Leather first if you don’t have enough.  
 * Go to Frusenholm and create a Great (Blue) quality set of Aerofibril equipment. Prioritize Hands, then Chest. You can skip the Legs if you’d like as Flowy Trousers are almost always better until you get to Perfect quality or above.  
 * If you haven’t yet accomplished 30k steps in a single day, this section is a great place to go for it as you’ll be spending lots of steps in single areas. **\[Hard Achievement 4\]**  
@@ -666,7 +665,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * Create Amulets of Lucky Rabbit’s Foot and equip your best one  
   * Create additional Amulets if you’d like to and if you have the trinkets available  
     * Make sure you have at least one of each amulet you have the trinkets for  
-    * Eel, Pink Pearl, and Lucky Rabbit’s Foot amulets are particularly worth trying for higher qualities  
+    * Eel, Spider, Pink Pearl, and Lucky Rabbit’s Foot amulets are particularly worth trying for higher qualities  
     * You can also try for an Amulet of Animal Kingdom if you have the trinkets. The stats are good but very spread out (Jack of all trades, master of none). You probably want to wait until you have optimal Quality Outcome gear.  
   * Create the following Rings (try for 2 Great quality of each)  
     * Silver and Gold Ruby Rings   
@@ -712,7 +711,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * This should also complete the 5000 ectoplasm achievement **\[Hard Achievement 15\]**  
 * Buy the **\!\!Charter of the Drowned \[Collectible 30\]**  
 * Equip your best **Find Collectibles Foraging** gear and go South twice to Blackwater Fields  
-* Do Dragonfly Catching for $$Dragonfly Catching Net, \#\#Brilliant Emerald Dragonfly **\[Collectible 31\]** (and a chance at a Rare Chicken Egg)  
+* Do Dragonfly Catching for **\!\!Dragonfly Catching Net**, \#\#Brilliant Emerald Dragonfly **\[Collectible 31\]** (and a chance at a Rare Chicken Egg)  
   * If you need to bank you can do so to the south in Blackrane  
 * Return to Blackrane and equip your best **Efficiency Net Fishing** gear  
 * Go South to Kildome Cross and do Isthmus Sea Fishing (Net) for the $$Fishnet Shirt  
