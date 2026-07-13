@@ -1,8 +1,8 @@
-### **Hunting & Tailoring Update TL;DR;**
+# ***Hunting & Tailoring Update TL;DR;***
 
 Two whole new skills, and along with it a handful of new achievements/collectibles as well as a ton of new items to hunt down\! A few things have been shuffled around, especially in GDTE to prioritize early crafting of the highly versatile Tailoring equipment.
 
-There is a new type of activity mechanic which applies to the new skills. Normally location based activities are able to be done indefinitely as long as you have the right equipment and skill level, but most of the Hunting activities require a per completion reagent as well, making it a bit less set and forget than other activities in the game. The two Tailoring activities also make use of this mechanic, optionally taking a reagent for bonus XP.
+There is a new mechanic which applies to the new skills. Normally activities are able to be done indefinitely as long as you have the right equipment and skill level, but some Hunting activities require a per completion reagent as well, making it a bit less set and forget than other activities in the game. The two Tailoring activities also make use of this mechanic, optionally taking a reagent for bonus XP.
 
 Hunting is a new Gathering skill. Collecting animal based drops which are primarily used in Tailoring and Cooking. There are a couple of unique activity reagents like Box Traps and Kelp Drift Nets, but the primary reagents used in hunting are arrows of various tiers. The higher tier of arrow, the more Work Efficiency, and some activities require a higher tier of arrow to complete. Several new Carpentry recipes were added to craft various Hunting tools and Reagents.
 
@@ -25,7 +25,7 @@ There are several new upgradable items.
 * Sturdy Fishing Rod Rest (Fishing Chests) \-\> Triple Rod Rest  
 * Woodworking Glasses (Carpentry Chests) \-\> Tinted Woodworking Glasses
 
-## **Main Guide**
+# ***Main Guide***
 
 This guide is for those who like to take their time to fully explore and complete areas. For those who like to fill out their collection log/achievements even if it does not give any real meaningful reward. This approach will provide a slower experience than power leveling to endgame activities, but I personally find it more enjoyable.
 
@@ -74,7 +74,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 # ***Walkthrough Part 1 \- Jarvonia***
 
-### **Starting off**
+## **Starting off**
 
 * Herbert has his own mini-reputation and job board\! I **HIGHLY** recommend maxing out his reputation (only 5 levels) before leaving for Frusenholm in the next section. It’s easy to max out, and you’ll get tons of activity chests as well as some starter coins and the birch skis\!  
   * This may mean your path to hit the required skill levels may be a bit different than the guide, depending on what jobs Herbert has for you.   
@@ -115,7 +115,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 10 | Foraging: 10 | Hunting: 1 | Mining: 15 | Woodcutting: 15  
   Carpentry: 25 | Cooking: 10 | Crafting: 5 | Smithing: 15 | Tailoring: 1 | Trinketry: 1
 
-### **Starter tools and Agility/Foraging Jumpstart**
+## **Starter tools and Agility/Foraging Jumpstart**
 
 * Travel East to Frusenholm. Buy Pine Skis and a Clay Skydisc. Equip your Birch Skis and the Clay Skydisc. Sell one of your junk items to the JarvoJoy shop (3/20).  
   * While here you can buy the Golden Skydisc too if you still have 650ish coins  
@@ -146,7 +146,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 10 | Foraging: 25 | Hunting: 5 | Mining: 15 | Woodcutting: 15  
   Carpentry: 25 | Cooking: 10 | Crafting: 5 | Smithing: 15 | Tailoring: 1 | Trinketry: 1
 
-### **Woodcutting and Improving Tools**
+## **Woodcutting and Improving Tools**
 
 * Get your best **Woodcutting** and **Agility** gear, make sure you have your skis and Clay Skydisc.  
 * Go south from Centaham to Coldington  
@@ -177,7 +177,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 10 | Foraging: 30 | Hunting: 5 | Mining: 15 | Woodcutting: 30  
   Carpentry: 25 | Cooking: 10| Crafting: 20 | Smithing: 15 | Tailoring: 1 | Trinketry: 1
 
-### **Getting Tailored Gear**
+## **Getting Tailored Gear**
 
 * Bank everything and take out your best **Tailoring** gear and enough Hemp and Flax to create 200 Linen Cloth (each cloth requires 2 Hemp or Flax). Travel to Frusenholm to make the Linen Cloth and return to Kallaheim.  
 * Bank everything and take out your best **Hunting** gear and 350 plants (excluding Grass, Showdrop, and Moondaisy). Plants you should have include Berries, Flax, Hemp, Nettle, Thistle and Wheat.  
@@ -201,7 +201,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 10 | Foraging: 30 | Hunting: 35 | Mining: 15 | Woodcutting: 30  
   Carpentry: 25 | Cooking: 10| Crafting: 20 | Smithing: 15 | Tailoring: 25 | Trinketry: 1
 
-### **Opening up Smithing, boosting Mining and the return to Barbantok**
+## **Opening up Smithing, boosting Mining and the return to Barbantok**
 
 * Get your best **Rod Fishing** and **Carpentry** gear (including a Carpentry Tool), go to Frusenholm and do Ice Sculpting for the **\!\!Ice Cutter** and the \#\#Tiny Swan Ice Sculpture **\[Collectible 3\]** and level 30 Crafting  
 * Catch 100 fish **\[Easy Achievement 14\]**  
@@ -229,7 +229,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 25 | Foraging: 30 | Hunting: 35 | Mining: 35 | Woodcutting: 30  
   Carpentry: 30 | Cooking: 10 | Crafting: 45 | Smithing: 20 | Tailoring: 25 | Trinketry: 1
 
-### **Return to Port Skildar, prepping for Tool Upgrades**
+## **Return to Port Skildar, prepping for Tool Upgrades**
 
 * Equip your best **Quality Crafting** gear, get out 25 Iron Bars, 25 Spruce Planks, 10 Twine (or enough Flax to make 10 Twine), 1 Silver Bar, 8 Bronze Bars, and your Simple Wrench, Pan, Saw, Hammer, and Simple Sewing Needle. Bring along 2 extra Bronze Bars and your Simple Chisel if you got to level 14 Trinketry in the previous step.  
 * Go to Frusenholm and create Good (Green) quality Iron Pickaxe/Hatchet/Sickle. Upgrade the Simple Sewing Needle to a Silver one and the other tools to their Bronze counterparts.  
@@ -262,7 +262,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 40 | Foraging: 45 | Hunting: 35 | Mining: 45 | Woodcutting: 45  
   Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
 
-**End of Part 1 Summary**
+## **End of Part 1 Summary**
 
 * We got a lot of the easier achievements knocked out and got most of our skills up to a level that opens up a ton of new activities  
 * We got some intro Tailored gear, which will come in handy for nearly every activity going forward.  
@@ -272,7 +272,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 # ***Walkthrough Part 2 \- Into Syrenthia and GDTE***
 
-### **First Steps in Syrenthia**
+## **First Steps in Syrenthia**
 
 * Go to Port Skildar then Northeast and East to Vastalume  
 * From here on out, keep your eyes open for activity chest drops which can be upgraded (try to use Fine materials when upgrading for increased quality outcome\!). Consider making these items in Vastalume where the services have an intrinsic 5% No Materials Consumed or an advanced service location with similar material efficiency and/or quality bonuses like Winter Waves Glacier for Smithing or Halfling Campgrounds for Carpentry. Here are some particularly powerful upgrades compared to their base versions:  
@@ -307,7 +307,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 40 | Foraging: 45 | Hunting: 35 | Mining: 45 | Woodcutting: 45  
   Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
 
-### **Grinding for Hydrilium Gear**
+## **Grinding for Hydrilium Gear**
 
 * First let's get our Hydrilium Diving Set. The set does not gain too many stats from quality upgrades so we won’t be spending time farming out hundreds of Hydrilium to get high quality.  
 * With your best **Underwater Efficiency Mining** gear, go north from Vastalume to the Underwater Cave and Mine Volcanic Rock for 12 Volcanic Rocks  
@@ -348,7 +348,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 40 | Foraging: 48 | Hunting: 35 | Mining: 47 | Woodcutting: 46  
   Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
 
-### **Into GDTE**
+## **Into GDTE**
 
 * You need up to 10,728 coins to afford Oak Skis (89), Sharp Machete (1,140), Backpack (4,999), and the Jarvonian Letter of Passage (4,500). Go to Port Skildar with your best **Chest Finding Carpentry** gear, do Brig Repair till you can buy the items you don’t have.  
   * Cutting Oak Trees in Nomad Woods (**Chest Finding Woodcutting** gear) is another good option. You can sell the Oak Logs and Berries from Bird Nests without going anywhere.  
@@ -379,7 +379,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 40 | Foraging: 48 | Hunting: 35 | Mining: 47 | Woodcutting: 46  
   Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
 
-### **Prepping for Tailoring Upgrades**
+## **Prepping for Tailoring Upgrades**
 
 * Equip your best **Efficiency Hunting** gear including your Copper/Bronze Arrows.  
 * Go to Mangrove Forest and do Deer Hunting at least 200 times, get 60 Animal Fur and enough Hide/Scaps to make 240 Leather. You’ll likely need upwards of 400 arrows to get enough Fur.  
@@ -410,7 +410,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 55 | Foraging: 55 | Hunting: 54 | Mining: 47 | Woodcutting: 50  
   Carpentry: 48 | Cooking: 40| Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
 
-### **Tailoring, Hunting and Halflings**
+## **Tailoring, Hunting and Halflings**
 
 * Return to Salsfirth. If you did not unlock the Halfling Zone, do Venture into the Woods with your **Efficiency Foraging** gear and get your Halfling reputation up to level 2\.  
 * Equip your best **Efficiency Woodcutting** gear and 3 light sources, go to the Witched Woods and cut Bamboo Logs for a **\!\!Mummy Egg** and at least 400 Bamboo Logs. Start hatching your Mummy Egg immediately. **\[Normal Achievement 14\]**  
@@ -446,7 +446,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 55 | Foraging: 55 | Hunting: 56 | Mining: 47 | Woodcutting: 51  
   Carpentry: 49 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 45 | Trinketry: 1
 
-### **Finishing up GDTE (for now)**
+##  **Finishing up GDTE (for now)**
 
 * Go to Blackspell Port and do Erdwise Dumpster Diving for 55 Foraging and a **\!\!Shrimp Trinket**  
 * Bank all the drops in Bilgemont Port, equip your best **Efficiency/XP Carpentry** gear and return to Blackspell Port  
@@ -490,7 +490,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 55 | Foraging: 55 | Hunting: 56 | Mining: 47 | Woodcutting: 51  
   Carpentry: 58 | Cooking: 55 | Crafting: 58 | Smithing: 55 | Tailoring: 58 | Trinketry: 55
 
-### **Brief Detour to Spooktown**
+## **Brief Detour to Spooktown**
 
 * Go West, Southeast, Southwest from Granfiddich to Wraithwater.  
 * Do Ghost Tag for 10 Ectoplasm, and Graveyard Foraging 5 times. Craft a Spectral Pickaxe which should give you an additional 100 ectoplasm **\[Normal Achievement 16\]**. Then craft a Spectral Saw and Repair the Bank.  
@@ -525,7 +525,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 55 | Foraging: 55 | Hunting: 59 | Mining: 47 | Woodcutting: 50  
   Carpentry: 58 | Cooking: 55 | Crafting: 58 | Smithing: 55 | Tailoring: 59 | Trinketry: 55
 
-**End of Part 2 Summary**
+## **End of Part 2 Summary**
 
 * We got almost every collectible and rare drop from GDTE.  
 * We took brief detours to Syrenthia and Wallisia for some low hanging fruit and upgraded our tools and tailored gear to something that will last us for a long time  
@@ -534,7 +534,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 # ***Walkthrough Part 3 \- This looks familiar***
 
-### **Raising Jarvonia Reputation for Collectibles and Achievement Progress**
+## **Raising Jarvonia Reputation for Collectibles and Achievement Progress**
 
 * Somewhere in this section you may get the Adoring Fan Statue from Achievement point rewards. This is a great way to earn passive Adventure Guild Tokens. Similar to the Zip Pouch, if you have mediocre tool options I’d strongly recommend using this.  
 * While in Jarvonia, prioritize leveling the Reindeer Pet until it reaches Adulthood, you should also have hatched 5 pets by now **\[Normal Achievements 22, 23\].**  
@@ -583,7 +583,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 57 | Foraging: 55 | Hunting: 60 | Mining: 50 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 55 | Crafting: 58 | Smithing: 56 | Tailoring: 60 | Trinketry: 55
 
-### **Exploring the rest of Jarvonia**
+## **Exploring the rest of Jarvonia**
 
 * Return to a bank (Azurazera/Kallaheim) and equip your best **Efficiency Cage Fishing Gear**  
 * Go South from Black Eye Peak to Winter’s End and do Sea Fishing (Cage) for a **\!\!Pink Pearl Trinket** and $$Crustacean Call (or even 2 of them if you want)  
@@ -616,7 +616,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 57 | Foraging: 55 | Hunting: 60 | Mining: 60 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 56 | Crafting: 58 | Smithing: 56 | Tailoring: 60 | Trinketry: 55
 
-### **Finishing Syrenthia Achievements**
+## **Finishing Syrenthia Achievements**
 
 * Make sure while in Syrenthia prioritize leveling your Dolphin to adulthood  
 * Continue to complete Syrenthia jobs and attempt to reach level 5 to unlock \#\#Mark of the Trident, \#\#Mark of the Serpent, and \#\#Mark of the Deep One **\[Collectibles 22, 23, 24\]**  
@@ -649,7 +649,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 60 | Foraging: 60 | Hunting: 61 | Mining: 61 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 57 | Crafting: 58 | Smithing: 59 | Tailoring: 60 | Trinketry: 55
 
-### **Returning to Trinketry**
+## **Returning to Trinketry**
 
 * Go to Salsfirth, equip **Cooking** gear and take a Raw Shark to Granfiddich to cook it **\[Hard Achievement 7\]**  
 * Go to Bilgemont Port, equip your best **Transform Smithing** gear, and smith all your Silver and Gold Nuggets into Bars. Make sure you have at least 2 bars of each other Shield metal type that you haven’t yet created aside from Farganite (Iron/Steel/Tarsillium). We’ll have to do Farganite at an Advanced Forge later with the Gem Shield.  
@@ -691,7 +691,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Fishing: 60 | Foraging: 58 | Hunting: 61 | Mining: 61 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 56 | Crafting: 58 | Smithing: 59 | Tailoring: 60 | Trinketry: 67
 
-**End of Part 3 Summary**
+## **End of Part 3 Summary**
 
 * We did another loop of some of the places we’ve already visited to complete the more difficult and grindier achievements now that we have better gear and skill levels  
 * We finished getting all the rare drops and easier collectibles in the Northern half of the continent, only the rarest collectibles remain.   
@@ -699,7 +699,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 # ***Walkthrough Part 4 \- Grinding in Wallisia***
 
-### **Wallisia and Wrentmark**
+## **Wallisia and Wrentmark**
 
 * Return to Wraithwater and equip your best **Efficiency Rod Fishing** gear  
 * Go to Tendon Wet Fields and do Flooded River Fishing for a $$Fishing Stringer  
@@ -731,7 +731,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Achievements: 17/17 | 33/36 | 15/20 | 0/1  
   Collectibles: 33/47 | Total Achievement Points: 224
 
-### **Completing crafting Achievements and other grinds**
+## **Completing crafting Achievements and other grinds**
 
 * Return to Kallaheim and take out 1x Gold Bar, one of each type of Gem aside from Opal and Star Pearl, 4x Farganite Bars, and 2x Bars of each metal shield type you’re missing (Iron, Steel, Tarsillium). If you don’t have enough bars, bring enough Ore and Coal to create them.   
 * Equip your best **Quality Outcome Smithing** gear (and Double Rewards/No Material gear if you want to make a lot of bars). Go to Winter Waves Glacier and create one of each shield you’re missing, (Iron, Steel, Tarsilium, Farganite, Gem). Go back to Kalaheim and hold all shield types in your bags at the same time. **\[Hard Achievement 16\]**  
@@ -765,7 +765,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   Achievements: 17/17 | 36/36 | 20/20 | 1/1  
   Collectibles: 34/47 | Total Achievement Points: 269 (Cape of Achiever\!)
 
-# **Endgame Grinds**
+## **Endgame Grinds**
 
 * We've reached the last few items to collect\! Each of these remaining activities will take quite a few steps to give up their items. If you skipped any droppables or collectibles listed in the guide along the way, now would be the time to go back and get them. Any droppables not explicitly mentioned in the guide are listed below.  
 * I won’t make a note of any gear as you should know what to do by this point (Quality Outcome/Double Rewards/No Materials Consumed for making equipment, Double Action/Rewards/Fine Materials for gathering, Double Rewards/No Materials Consumed for Transformations (ie: logs to planks), Find Collectible for collectibles, etc.)  
