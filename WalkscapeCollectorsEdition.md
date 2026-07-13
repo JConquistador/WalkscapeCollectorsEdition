@@ -122,7 +122,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * We'll come back for more shopping and the Ice Sculpting drops later\!  
 * Travel South to Centaham. Buy a Simple Pan. Sell a junk item to Northstar Mercantile (4/20).  
   * (OPTIONAL) Also buy some other starter items and tools if you have the money  
-  * Simple Hammer/Wrench/Gold Pan/Chisel/Saw/Sewing Needle  
+  * Simple Hammer/Wrench/Gold Pan/Chisel/Saw/2x Sewing Needle  
 * Travel West to Casbarant Fields.  
 * Do Classic Skiing 50 times (gets Agility to 20 and unlocks the ability to use Pine Skis).  
 * Do Rabbit Tracking to level 5 Hunter and $$Rabbit Ears  
@@ -152,16 +152,18 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go south from Centaham to Coldington  
 * Do Firewood Making until you find the **\!\!Tree Scaling Claws**  
   * Do at least 200 times to unlock the use of the Log Splitter  
-* Do Hut Jumping until you have 100 stones/120 sticks (including what’s in the bank), and until you get the $$Parkour Gloves  
+* Do Hut Jumping until you have 50 stones/75 sticks (including what’s in the bank), and until you get the $$Parkour Gloves  
+  * If you get your gloves but still lack stones/sticks you can stop and hope for good luck when crafting basic tools. Make sure you have enough to reach 15 crafting though. It takes about 60 total basic tool crafts to hit level 15 crafting from level 1\.  
 * Go South from Coldington to the Horn of Respite and do Search Team until you have 30 tokens worth of pins/tags (pins are worth 2, tags are worth 10\) and get the **\!\!Alien Squeaky Toy**  
 * Go East from Coldingdon to Port Skildar  
 * Buy a Simple Life Vest, a Fishing Lure, and a **\!\!Rusty Diving Helmet**. Also buy 20 fishing lines for crafting. Sell something you got from Coldington to the Frosthook Emporium (6/20).  
-* Go to Centaham and buy the remaining starter items if you didn’t have them before (Simple Hammer/Wrench/Gold Pan/Chisel/Saw/Sewing Needle)  
+* Go to Centaham and buy the remaining starter items if you didn’t have them before (Simple Hammer/Wrench/Gold Pan/Chisel/Saw/2x Sewing Needle)  
 * If you don’t have the Golden Skydisc and can’t afford it (500 coins) go back to the Beach of Woes with your best **Foraging** gear and do Seashell Searching. Sell the Seashells, Clams and Pearls and whatever fish you get from the sunken chests until you have enough coins.  
 * Go to Kallaheim to get your **Crafting** gear and any banked sticks and stones. Buy your simple ring if you didn’t before.  
 * Go to Frusenholm, buy the Golden Skydisc if you didn’t before.  
-* Craft wooden fishing poles, and all the other basic tools (Sickle, Hatchet, Pickaxe), hope to get at least a “Great” blue quality of each before moving on.  
+* Craft Wooden Fishing Poles, then all the other basic tools (Sickle \> Pickaxe \> Hatchet), hope to get at least a “Great” blue quality of each before moving on.  
   * If you get all the tools at Great quality, continue to use ALL of your sticks and stones to craft more basic tools to help level crafting  
+  * If you run out of stones and still want to improve your tools you’ll get extra stones in the next step from Litter Looting, if you run out of sticks you can do Branch Trimming in Coldington. You can also swing by Herbert for 6 free sticks/stones every day.  
 * Head back to Kallaheim, equip your best **Foraging** gear and do Litter Looting until you find a **\!\!Simple Torch** and the **\!\!Smelly Socks** **\[Normal Achievement 1\]**. Equip any fine material bonuses you happen to have and hope to get lucky finding “Fine” trash for another achievement, if you don’t get it before the socks don’t worry about it, we’ll find it later.  
   * If you get the socks before finding the Simple Torch you can Upcycle Trash to try and find it as well  
 * You should by now have 100 different items in the bank **\[Normal Achievement 2\]**  
@@ -217,7 +219,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Barbantok and do Wood Carving for a **\!\!Carving Knife**, the \#\#Wooden Carved Bear Figurine **\[Collectible 4\]** and Carpentry to level 20 if not there.  
 * Do Tinkering for a **\!\!Wire Saw**, the \#\#Silver Pocket Watch **\[Collectible 5\]**, 200 times for a screwdriver bonus, and level 45 Crafting  
 * Return to Kallaheim and with your best **No Materials/Double Rewards Carpentry** gear turn Spruce Logs into Planks until you have 25 planks.  
-* (OPTIONAL) If you got the Wire Saw and you have enough materials, try and get your trinketry up to level 12 to equip it. Create Jarvonian Flower Necklaces and shape all of your Rough Opals. If you got to level 5 but not to level 8, make 1-4 Silver Rings to hit level 8\. Once at level 8, shape all of your Star Pearls. If you got to level 10 but did not get to 12, you can make 1-2 Silver Opal Rings to hit level 12\. The only Trinketry Bench is in Winter’s End at the southern tip of Jarvonia, so you’ll need to do your work there\!
+* (OPTIONAL) If you got the Wire Saw and you have enough materials, try and get your trinketry up to level 12 to equip it. Create Jarvonian Flower Necklaces and shape all of your Rough Opals. If you got to level 5 but not to level 8, make 1-4 Silver Rings to hit level 8\. Once at level 8, shape all of your Star Pearls. If you got to level 10 but did not get to 12, you can make Silver Opal Rings to hit level 12 (or 14 to unlock Bronze Chisels). The only Trinketry Bench is in Winter’s End at the southern tip of Jarvonia, so you’ll need to do your work there\!
 
 *Checkpoint*
 
@@ -229,16 +231,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 **Return to Port Skildar, prepping for Tool Upgrades**
 
-* From here on out, keep your eyes open for activity chest drops which can be upgraded (try to use Fine materials when upgrading for increased quality outcome\!). Consider making these items in Vastalume where the services have an intrinsic 5% No Materials Consumed or an advanced service location with similar material efficiency and/or quality bonuses like Winter Waves Glacier for Smithing or Halfling Campgrounds for Carpentry. Here are some particularly powerful upgrades compared to their base versions:  
-  * Walking Stick  
-  * Crafting Pants \+ Slipstick (this makes a new pair of pants, so make sure you still have a Slipstick left over)  
-  * Forge Bellows  
-  * Steel-toe Boots  
-  * Durable Fabric Cutting Mat  
-  * Miner’s Magnet  
-  * Big Basket \+ Log Basket  
-  * Sturdy Fishing Rod Rest  
-* Equip your best **Quality Crafting** gear, get out 25 Iron Bars, 25 Spruce Planks, 10 Twine (or enough Flax to make 10 Twine), 1 Silver Bar, 8 Bronze Bars, and your Simple Wrench, Pan, Saw, Hammer, and Sewing Needle. You can also take 2 more bronze bars and your Simple Chisel if your Trinketry is already level 14\.  
+* Equip your best **Quality Crafting** gear, get out 25 Iron Bars, 25 Spruce Planks, 10 Twine (or enough Flax to make 10 Twine), 1 Silver Bar, 8 Bronze Bars, and your Simple Wrench, Pan, Saw, Hammer, and Simple Sewing Needle. Bring along 2 extra Bronze Bars and your Simple Chisel if you got to level 14 Trinketry in the previous step.  
 * Go to Frusenholm and create Good (Green) quality Iron Pickaxe/Hatchet/Sickle. Upgrade the Simple Sewing Needle to a Silver one and the other tools to their Bronze counterparts.  
 * Return to Kallaheim and get your best **Cooking** gear  
 * Travel South from Casbrant Fields to Azurazera  
@@ -257,9 +250,8 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * If you have not yet found a **\!\!Hand Lantern** in a Mining Chest, keep doing Mining Chest jobs until you get one or have enough duplicate gear to trade for one at the Mysterious Merchant.  
 * If you are not level 50 Agility, level that by doing Sledding in Nurturing Nook Springs to further level Jarvonia reputation  
 * If you have not yet found a pair of **\!\!Rusty Diving Leggings** in a Sunken Chest, do Seashell Searching in the Beach of Woes until you do  
-* Buy a Woodpucker from Frusenholm and a Simple Sewing Needle from Centaham and go back to Kallaheim to bank everything  
-* Equip your Rusty Diving Set and **Traveling** gear  
-  
+* Buy a Woodpucker from Frusenholm and go back to Kallaheim to bank everything  
+* Equip your Rusty Diving Set and **Traveling** gear
 
 
 *Checkpoint*
@@ -283,13 +275,22 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 **First Steps in Syrenthia**
 
 * Go to Port Skildar then Northeast and East to Vastalume  
+* From here on out, keep your eyes open for activity chest drops which can be upgraded (try to use Fine materials when upgrading for increased quality outcome\!). Consider making these items in Vastalume where the services have an intrinsic 5% No Materials Consumed or an advanced service location with similar material efficiency and/or quality bonuses like Winter Waves Glacier for Smithing or Halfling Campgrounds for Carpentry. Here are some particularly powerful upgrades compared to their base versions:  
+  * Walking Stick  
+  * Crafting Pants \+ Slipstick (this makes a new pair of pants, so make sure you still have a Slipstick left over)  
+  * Forge Bellows  
+  * Steel-toe Boots  
+  * Durable Fabric Cutting Mat  
+  * Miner’s Magnet  
+  * Big Basket \+ Log Basket  
+  * Sturdy Fishing Rod Rest  
 * You need a diving set equipped in Syrenthia at all times, so the very first thing we want to do is replace the terrible Rusty Diving set so we’re not as heavily penalized. Plus we need higher tier diving sets to access all of Syrenthia.  
-* While here I **STRONGLY** advise doing the job board whenever you can to get Syrenthia Chests. We particularly want the $$Pearl Bracelet which is quite easy to find and we need to hit level 3 reputation to unlock the Undercurrent shop.  
+* While here I **STRONGLY** advise doing the job board whenever you can to get Syrenthia Chests. We particularly want the **\!\!Pearl Bracelet** which is quite easy to find and we need to hit level 3 reputation to unlock the Undercurrent shop. The **\!\!Oxygen Tank** at 10 reputation is also a great item as it counts as expert diving gear and goes in the backpack slot which is a less valuable gear slot than Helm/Chest/Legs.  
 * Equip your best **Underwater Efficiency Foraging** gear  
 * Go East to the Kelp Forest  
-* Do Kelp Foraging for 15 Sweet Kelp and at least 24 Kelp  
+* Do Kelp Foraging for 24 Kelp  
 * Return to Vastalume  
-* Using your best **Underwater Cooking** gear turn 24 Kelp into 12 Hardened Kelp and cook 5 Kelp Rolls  
+* Using your best **Underwater Cooking** gear turn 24 Kelp into 12 Hardened Kelp  
 * Using your best **Underwater Quality Outcome Crafting** gear make a Gold Sewing Needle.  
 * Using your best **Underwater Quality Outcome Tailoring** gear make one of each of the Advanced Diving set (Kelp Diving xxx).  
 * Equip your best **Underwater Efficiency Agility** gear  
@@ -311,20 +312,21 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * First let's get our Hydrilium Diving Set. The set does not gain too many stats from quality upgrades so we won’t be spending time farming out hundreds of Hydrilium to get high quality.  
 * With your best **Underwater Efficiency Mining** gear, go north from Vastalume to the Underwater Cave and Mine Volcanic Rock for 12 Volcanic Rocks  
 * Return to Vastalume and with your best **Underwater Crafting** gear turn those 12 Volcanic Rocks and 12 leftover Hardened Kelp from the previous step into 6 Hydrilium. Then using your best **Underwater Quality Outcome Smithing** gear, create one of each of the Expert Diving Set (Hydrilium Diving xxx)  
-* With your best **Underwater Efficiency Crafting** gear return to Elara’s Lagoon and do Underwater Basket Weaving 50 times **\[Normal Achievement 6\]**, a $$Flatpack Shark, and level 58 Crafting  
-* Return to Vastalume and with your best **Underwater Efficiency/Fine Item Agility** gear do Merfolk Dancing for the $$Merfolk Dress, a **\!\!Dolphin Egg**, the \#\#Letter from A. A. **\[Collectible 7\]**, and **Syrenthia Faction Reputation Level 3**  
+* Return to Vastalume and with your best **Underwater Efficiency/Fine Item Agility** gear do Merfolk Dancing for the $$Merfolk Dress, a $$Dolphin Egg, the \#\#Letter from A. A. **\[Collectible 7\]**, and **Syrenthia Faction Reputation Level 3**  
   * Sell an item to each of the 3 shops in Vastalume: Pearl of the Sea, Sunken Anchor, Undercurrent (10/20).  
   * Start hatching and leveling your Dolphin once you get it  
+* With your best **Underwater Efficiency Crafting** gear return to Elara’s Lagoon and do Underwater Basket Weaving 50 times **\[Normal Achievement 6\]**, a $$Flatpack Shark, and level 56 Crafting  
+  * (OPTIONAL) You can stop the activity as low as Crafting 46 if you want and level crafting through farming materials and making Hydrilium tools. It will be slower overall but you will end up with better quality tools and higher levels in several other skills.  
 * Now we want to make some decent Hydrilium tools. Each Great Quality tool will take around 20 attempts to make, so farm the following:  
   * **Underwater Efficiency/Fine Item Woodcutting** gear \-\> Kelp Forest  
     * Coral Cutting for 120 Coral  
   * **Underwater Efficiency/Fine Item Foraging** gear \-\> Kelp Forest  
-    * Kelp Foraging for 460 Kelp  
+    * Kelp Foraging for 460 Kelp and 15 Sweet Kelp  
   * **Underwater Efficiency/Fine Item Mining** gear \-\> Underwater Cave  
     * Mine Volcanic Rock for 280 Volcanic Rocks  
 * Return to Vastalume do the following transformations (remember to use No Material/Double Rewards for all transformations)  
   * **Underwater Carpentry** gear \-\> Turn all Coral into Coral Planks. Also create as many Bronze and Copper Arrows as you can.  
-  * **Underwater Cooking** gear \-\> Turn 320 Kelp into 160 Hardened Kelp  
+  * **Underwater Cooking** gear \-\> Turn 320 Kelp into 160 Hardened Kelp and cook 5 Kelp Rolls  
   * **Underwater Crafting** gear \-\> Turn 140 Hardened Kelp and 280 Volcanic Ore into 140 Hydrilium.  
   * **Underwater Crafting** gear \-\> Turn 20 Hardened Kelp into 20 Kelp Twine  
   * **Underwater Smithing** gear \-\> Turn 140 Kelp and 140 Hydrilium into 140 Hydrilium Bars. Also create as many Steel Bars as you can.  
@@ -335,6 +337,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * **Underwater Quality Outcome Carpentry** gear \-\> Make a Great (Blue) Oak Hunting Bow if you can. You should have a stockpile of Oak logs from Woodcutting Chests.  
 * I recommend Smithing your metal scrap into Bronze Bars and buying some Simple Pans/Saws at Undercurrent to upgrade to their Bronze counterparts and try to get a Great Quality of each  
   * You can also try the same for Gold Sewing Needles, but take care, you will want a decent supply of Gold bars (15+) to level Trinketry in GDTE.  
+* If you’ve finished all of your crafting goals and are not yet level 58 Crafting, make more Hydrilium tools or return to Underwater Basket Weaving until you reach level 58 Crafting.  
 * Take out your Ring of Homesickness, go Northwest to the Darktide Trench **\[Hard Achievement 1\]**, and teleport back to Kallaheim
 
 *Checkpoint*
@@ -355,18 +358,18 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Frusenholm and buy the Oak Skis (89) and Backpack (4,999)  
 * Go NorthEast from Centaham to Fort of Permafrost, buy the \#\#Jarvonian Letter of Passage **\[Collectible 8\]** for 4,500 coins  
 * Go East to Noiseless Pass **\[Easy Achievement 15\]** and do Skate Skiing for a **\!\!Reindeer Egg** and 50 times to unlock the use of Oak and Super Skis  
-  * Once your Dolphin is Hatched, start hatching your Reindeer Egg  
 * Get Trellin reputation up to at least level 2 for the **\!\!Trusty Tent**, and Erdwise reputation up to level 5 for the full Proper set and to unlock Guard Duty. Do this by completing jobs in Granfiddich, Everhaven, and Blackspell Port.  
   * **\*\*REMEMBER\*\*** do NOT accept any Fine Wooden Stick job requests  
   * As you complete Erdwise jobs, keep an eye out for a **\!\!Zip Pouch** from Trinketry chests. I strongly recommend equipping this item if you can spare the tool slot as it will earn you passive gems which will greatly help with Trinketry as gems are so scarce. I recommend visiting the Mysterious Merchant in Granfiddich to buy the Zip Pouch once you get enough Trinketry Chips.  
-* Go East and South to Granfiddich. Buy a **\!\!Sharp Machete** (1,140) and sell an item to each of the 4 shops: Bureau of Moss, Fish Market Stall, Food Market Stall, Tool Market Stall (14/20). If you did not get a **\!\!Hand Lantern** from a Mining Chest, trade for enough chips to buy one.  
+* Go East and South to Granfiddich. Buy a **\!\!Sharp Machete** (1,140) and sell an item to each of the 4 shops: Bureau of Moss, Fish Market Stall, Food Market Stall, Tool Market Stall (14/20). If you did not get a **\!\!Hand Lantern** from a Mining Chest or a **\!\!Grappling Hook** from an Agility Chest, trade for enough chips to buy them.  
 * Go East and North from the Mangrove Forest to Farsand Coast  
 * Do Surface Swimming 200 times for credit towards the Hard achievement  
 * Go South to Salsfirth to bank and sell something to Paws are Us (15/20)  
 * If your Foraging happens to be at least level 50, equip your best **Efficiency Foraging** gear and two light sources, do Venture Into the Woods for \#\#Essence of the Swamp **\[Collectible 9\], \[Normal Achievement 7\]** then return to Salsfirth. If not, don't worry, it’ll get unlocked in the next section.  
   * Now that the Halfling area is unlocked, if you have 3 light sources already, do Halfling jobs to at least level 2 for access to the bank in Halfmaw Hideout.  
 * Equip your best **Efficiency Agility** gear and your Golden Skydisc and go East and East to Bilgemont Port  
-* Do the GDTE Skydisc Course 25 times and for the **\!\!Red Skydisc**
+* Do the GDTE Skydisc Course 25 times and for the **\!\!Red Skydisc**  
+* Make sure to claim and hatch the **\!\!Pixie Egg** once you reach 45 achievement points. It’s a great pet with decent global bonuses.
 
 *Checkpoint*
 
@@ -391,10 +394,10 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go South to Blackspell Port and sell an item to Gold'n Grail Blackspell (19/20)  
 * Go Southwest from Blackspell Port to the Old Arena Ruins and do Magnet Fishing for 55 Fishing, a **\!\!Heron Trinket**, two **\!\!Old Gold Rings**, the \#\#Old War Sword **\[Collectible 11\]**, and “Fine” quality Trash **\[Normal Achievements 8, 9, 10\]**  
   * Once you find the “fine” trash you don’t need the fine item attribute anymore, focus on Efficiency/Collectibles. If you get everything else but NOT any fine trash you can keep looking here or do Litter Looting once you’re back in Kallaheim.  
-* Return to Halfmaw Hideout/Bilgemont Port and equip your best **Efficiency Foraging** gear along with your Jellyfishing (or Bug Catching) Net.  
 * Return to Halfmaw Hideout/Bilgemont Port and equip your best **Efficiency Hunting** gear (including Copper/Bronze Arrows).  
-* Go to Old Arena Ruins and do Lizard Hunting for 60 Lizard Tails. If you have spare Copper/Bronze arrows, use all but 1 for a chance at the **\!\!Gecko Egg**.   
+* Go to Old Arena Ruins and do Lizard Hunting for 60 Lizard Tails. If you have spare Copper/Bronze arrows, use all but 1 for a chance at the $$Gecko Egg.   
 * (OPTIONAL) If you run out of arrows before finding the egg, you can either come back later with more arrows or Mine Coal. Mining Coal is more AFK friendly but will take more steps on average compared to farming arrows and doing Lizard Hunting.  
+* Return to Halfmaw Hideout/Bilgemont Port and equip your best **Efficiency Foraging** gear along with your Jellyfishing (or Bug Catching) Net.  
 * Go Southwest, then West to Warrenfield and do Butterfly Catching for **\!\!Fireflies in a Jar**, the \#\#Blue Lotus Butterfly **\[Collectible 12\]**, a **\!\!Chicken Egg**, 100 Honeycombs, and 1000 total wheat (including what’s in your bank) **\[Normal Achievements 11, 12, 13\]**  
   * Once you get your Chicken Egg start hatching it. If it hatches before you are finished with Butterfly Catching equip it while butterfly catching  
   * If you can’t bank at Halfmaw Hideout the closest bank is at Bilgemont Port.
@@ -454,7 +457,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Head South from Blackspell Port to the Red Coast  
 * Do Bodysurfing for a **\!\!Life Vest**, **\!\!Eel Trinket**, **\!\!Shark Tooth Trinket** and at least 100 times **\[Hard Achievement 2\]**  
 * Return to Bilgemont Port and equip your best **Efficiency** **Agility** gear including a Life Vest  
-* Go to Old Arena Ruins and do Kayaking for a **\!\!Lucky Rabbit Foot Trinket** and a **\!\!Tortoise Egg**  
+* Go to Old Arena Ruins and do Kayaking for a **\!\!Lucky Rabbit Foot Trinket** and a $$Tortoise Egg  
   * Start hatching your Tortoise Egg and equip the Tortoise pet for any non-agility activity.  
 * Go to Granfiddich and buy all 10 Tomatoes. Also buy what you’re missing from the following list: 1 chocolate, 2 milk/eggs/potatoes, and a **\!\!Sharp Knife**  
 * Return to Salsfirth, equip your best **No Material/Double Rewards Carpentry** gear and 3 light sources. It takes 10 Wood Scrap or two of any Plank (Willow or lower) to make a Box Trap. Take out enough material to make 300 Box Traps.  
@@ -490,7 +493,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 **Brief Detour to Spooktown**
 
 * Go West, Southeast, Southwest from Granfiddich to Wraithwater.  
-* Do Ghost Tag for 10 Ectoplasm. And Graveyard Foraging 5 times. Craft a Spectral Pickaxe which should give you an additional 100 ectoplasm **\[Normal Achievement 16\]**. Then craft a Spectral Saw and Repair the Bank.  
+* Do Ghost Tag for 10 Ectoplasm, and Graveyard Foraging 5 times. Craft a Spectral Pickaxe which should give you an additional 100 ectoplasm **\[Normal Achievement 16\]**. Then craft a Spectral Saw and Repair the Bank.  
 * Using your best **No Materials/Double Rewards Tailoring** gear turn all of your Elderhide and Elderhide Scraps into Elderhide Leather  
 * Using your best **Quality Outcome Tailoring** gear, make a Great (Blue) quality set of Elderhide. Prioritize gloves, then chest and finally legs.  
 * Using your best **Collectible/Fine Material Foraging** gear do Graveyard Foraging for Bones, Widow’s Kiss, and the \#\#Haunted Teddy Bear **\[Collectible 14\]**. Using your best **Fine Material Fishing** gear, do Ectoplasm Fishing for Ectoplasm Fish and then using your **No Materials/Double Rewards Cooking** gear turn the fish into Ectoplasm.  
@@ -562,9 +565,9 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Return to the Horn of Respite, equip your Mountaineering Guidebook (in place of the Wanderlust Walking Stick)  
 * Do Rescue Team again for a total of 20 Unidentified Remains (part of an achievement) and 1000 tokens to purchase **\!\!Bert’s Super-Skis, \!\!Bolstered Quiver**, and **\!\!Mysterious Northern Map** **\[Collectible 16\]**  
   * Be prepared to spend quite a few steps on this one, the gear listed above will give about 1 token every 275-285 steps (depending on if you have Bert’s Skiis equipped).  
-* Return to Jarvonia and get your best **Efficiency Hunting** gear along with a Hunting Bow and your level 20+ arrows.  
+* Return to Kallaheim and get your best **Efficiency Hunting** gear along with a Hunting Bow and your level 20+ arrows.  
 * Go to Nomad Woods and do Bear hunting 100 times **\[Hard Achievement 5\]**  
-* We now need to actively work on Jarvonia reputation, we can pair this with the 5,000 trees and 10,000 ore achievements.  
+* Now that we have the super skis, we should actively work on Jarvonia reputation. We can pair this with the 5,000 trees and 10,000 ore achievements.  
 * Try to complete every non-fine material gathering job given in both Kallaheim and Azurazera daily until you hit 100 reputation. Any duplicate chest gear like Hand Lanterns or Gold Pans can be turned in too if you don’t want the chips from the Mysterious Merchant as long as you remember to keep one to equip\! If you’re feeling adventurous you can also try your hand at crafting, but your Quality Outcome bonuses probably won’t be great so I wouldn’t try for anything beyond uncommon (green) or rare (blue) quality job requests.  
   * If you finish with all the jobs you can either bank steps for completing tomorrow’s jobs, or do Sledding in Nurturing Nook Springs for even more reputation (especially once you get the Zippy Kicksled at 80 rep)  
 * Take your Hydrilium Diving set out of the bank, equip your best **Find Collectibles Net Fishing** gear and go to Azurazera  
@@ -585,13 +588,13 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Return to a bank (Azurazera/Kallaheim) and equip your best **Efficiency Cage Fishing Gear**  
 * Go South from Black Eye Peak to Winter’s End and do Sea Fishing (Cage) for a **\!\!Pink Pearl Trinket** and $$Crustacean Call (or even 2 of them if you want)  
 * Return to a bank and get your best **Foraging** gear, Ring of Homesickness, and two Light Sources  
-  * Also bring along some high impact **Efficiency Agility** gear as long as it doesn’t take up too much space (Like Feather Cape, Bert’s Skiis, and Flowy Trousers). Make sure you have at least 20 spaces free.  
+  * Also bring along some high impact **Efficiency Agility** gear as long as it doesn’t take up too much space (Like Feather Cape, Bert’s Skis, and Flowy Trousers). Make sure you have at least 20 spaces free.  
 * Return to Winter’s End and do Cave Foraging until you complete the achievement to forage 300 Mushrooms **\[Normal Achievement 25\]**  
-* Do Spring Bat Tracking for an achievement to unlock the Venture into the Bog action in Granfiddich  
+* Do Spring Bat Tracking to unlock the Venture into the Bog action in Granfiddich  
 * Homesickness Ring back to Kallaheim  
 * Go North from Norsack Plains to explore Winter Waves Glacier **\[Normal Achievement 26\]**  
   * If desired, buy the $$Baby Penguin Ice Lure and $$Ice Netrod (4,000 coins each)  
-* If you want, now is a good time to go back to Nomad Woods and do Bear Hunting for the $$Weighted Vest, it provides quite a substantial Agility XP boost. You may need to make Arrows in order to do this.  
+* If you want, now is a good time to go back to Nomad Woods and do Bear Hunting for the $$Weighted Vest, it provides quite a substantial Agility XP boost which can help with an upcoming achievement. You may need to make Arrows in order to do this.  
 * Equip your best **Fine Material Woodcutting** gear  
 * Go to Disenchanted Forest  
 * Cut Birch Trees until you complete the 5,000 trees achievement **\[Normal Achievement 27\]**  
@@ -599,7 +602,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Frostbite Mountain  
 * Mine Copper until you find the **\!\!Jarvonian Crossword Puzzle** **\[Collectible 20\] \[Normal Achievement 28\]** and a chance at the “Fine” Rough Star Pearl (don’t continue to look for it if it doesn’t drop).  
 * Mine Coal at Frostbite Mountain until level 50 **\[Hard Achievement 6\]**  
-* (OPTIONAL) You can get your **\!\!Gecko Egg** here if you prefer it over Lizard Hunting  
+* (OPTIONAL) You can get your $$Gecko Egg here if you prefer it over Lizard Hunting  
 * Return to Kallaheim, equip your best **Find Collectibles Mining** gear, climbing tool and light source  
 * Go to Black Eye Peak and do Spelunking until you get the \#\#Ancient Ankh **\[Collectible 21\]** and reach level 60 Mining  
   * This activity ticks a lot of boxes. Collectible hunting while working towards 10k ores/100,000 coins, a chance at a rare Mummy, and decent agility XP toward hitting the 80 agility achievement.  
@@ -752,7 +755,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Each time you return to Vastalume to bank, with your best **No Materials/Double Rewards Cooking** gear cook all of your “**Fine”** Saltrum using Fruit Cake consumables if you have them and Underwater Salads/Beer otherwise until you have 85 total “Fine” Saltrum  
   * 50 salt/hops should be enough to create the 85 Fine Saltrum you need. If you get unlucky you may need to go back and gather additional Fine Salt Crystals  
   * Also cook at least 5 Underwater Salads the first time you return to Vastalume **\[Normal Achievement 35\]**  
-* Cook Wine and Beer to finish the 500 Alcohol achievement **\[Normal Achievement 36\]**. You’ll need around 1000 berries or 600 wheat (or a mix of the two) to get there with proper double reward/no materials consumed gear. Try not to use your entire stock of berries or wheat in case you need to make more Sweet Carrot Pies in the future.  
+* Cook Wine and Beer to finish the 500 Alcohol achievement **\[Normal Achievement 36\]**. You’ll need around 1000 berries or 600 wheat (or a mix of the two) to get there with proper double reward/no materials consumed gear. Try not to use your entire stock of wheat in case you need to make more Sweet Carrot Pies in the future.  
   * Completing this will give you 15 “Fine” Saltrum **\[Extreme Achievement 1\]**  
 * By now you should have hit the 10,000 ore achievement **\[Hard Achievement 19\]**. If not there are a bunch of options available. Some include Mine Crystal Coal for a Rare Pet egg if you don’t have one, Mine Ectoplasm Rocks to upgrade your Spectral Tools, do Spelunking if you skipped the Ancient Ankh, or Mine Copper to knock it out as quickly as possible.  
 * If you did not find a Rare Pet egg in your travels, go back and do so now. Dragonfly Catching for Chicken Eggs technically has the lowest W.E.A.R.  **\[Hard Achievement 20\]**
@@ -844,7 +847,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * Grants access to a bank in Halfmaw Hideout at 20 points and access to the Advanced Sawmill at 5 points (and additional Carpentry bonuses while using the sawmill at 10, 20, 30 and 45 points)  
   * Various carpentry consumables and unique carpentry equipment from the chests  
 * Syrenthia (can be farmed by Merfolk Dancing, 50 completions per point)  
-  * $$Fin Gloves, $$Oxygen Tank, \#\#Mark of the Trident, \#\#Mark of the Serpent, \#\#Mark of the Deep One at 5, 10, 20, 30, 45 points  
+  * $$Fin Gloves, **\!\!Oxygen Tank**, \#\#Mark of the Trident, \#\#Mark of the Serpent, \#\#Mark of the Deep One at 5, 10, 20, 30, 45 points  
   * Various consumables and unique equipment from the chests  
     * Merfolk Dance set gives global bonuses and can fill in as Diving Gear
 
@@ -852,7 +855,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 * With items like Adoring Fan Statue, Zip Pouch, Treasure Grabber, Adventuring Ring/Amulet, Amulet of Heron, Sun Stone Rings, etc you can farm for valuable drops like Coins, Activity Chests, Gems, and Adventurer’s Guild Tokens all at the same time by completing activities with low step counts. Here are some popular options.  
 * **Traveling** (10 steps minimum, Agility Chests) \- Traveling short paths is the absolute best at this as you can reach a minimum of 10 steps per travel action, though you won’t be able to go completely AFK as you will need to re-travel once you reach your destination(s)  
-* **Cut Birch Trees** (22 steps minimum, Woodcutting Chests) \- Lowest AFK step count activity in the game. Some people will drop the non-fine logs to stay on location longer.  
+* **Cut Birch Trees** (22 steps minimum, Woodcutting Chests) \- Lowest AFK step count activity in the game. Some people prefer to just drop the non-fine logs to stay on location longer.  
 * **Mine Copper Ore** (34 steps minimum, Mining Chests) \- The best way to get Gem Pouch gems when paired with a Rock Star Amulet.  
 * **Ice Sculpting** (45 steps minimum, Crafting/Carpentry Chests) \- Almost no loot to clog up your inventory. Crafting Chest gear is highly desirable for the Quality Outcome stat it provides.  
 * **Guard Duty** (54 steps minimum, Agility Chests) \- Also no inventory clogging loot drops. Good source of Agility XP, one of the best sources of coins for the 1m coin achievement, best natural W.E.A.R. for Gem Pouches too. Though the higher minimum step count means special loot table rolls will be less than half than what you’d get from Cutting Birch Trees.
