@@ -55,7 +55,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Fine Material Finding/Quality Outcome: Also not directly helpful, but will help with some of the trickier achievements  
 * XP: One of the least useful stats for collectible hunting, but is important for unlocking activities. Especially useful for early game Trinketry where materials are severely limited.
 
-## **General Notes:**
+## **General Notes**
 
 * You can open up activity chests as you get them, they may have some juicy gear inside which will reduce your grind, but you will run into bag space issues more frequently.  
 * Once you reach GDTE, you can trade in your activity chest equipment to the Mysterious Merchant for activity chips which can then be used to buy items from those chests  
@@ -110,7 +110,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 10/17 | 0/36 | 0/20 | 0/1  
-  Collectibles: 1/47 | Total Achievement Points: 11  
+  Collectibles: 1/52 | Total Achievement Points: 11  
   Agility: 5  
   Fishing: 10 | Foraging: 10 | Hunting: 1 | Mining: 15 | Woodcutting: 15  
   Carpentry: 25 | Cooking: 10 | Crafting: 5 | Smithing: 15 | Tailoring: 1 | Trinketry: 1
@@ -141,20 +141,21 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 13/17 | 0/36 | 0/20 | 0/1  
-  Collectibles: 1/47 | Total Achievement Points: 14  
+  Collectibles: 1/52 | Total Achievement Points: 14  
   Agility: 30  
   Fishing: 10 | Foraging: 25 | Hunting: 5 | Mining: 15 | Woodcutting: 15  
   Carpentry: 25 | Cooking: 10 | Crafting: 5 | Smithing: 15 | Tailoring: 1 | Trinketry: 1
 
 ## **Woodcutting and Improving Tools**
 
-* Get your best **Woodcutting** and **Agility** gear, make sure you have your skis and Clay Skydisc.  
+* Get your best **Woodcutting, Mining** and **Agility** gear, also get your Skis and Clay Skydisc.  
 * Go south from Centaham to Coldington  
 * Do Firewood Making until you find the **\!\!Tree Scaling Claws**  
   * Do at least 200 times to unlock the use of the Log Splitter  
-* Do Hut Jumping until you have 50 stones/75 sticks (including what’s in the bank), and until you get the $$Parkour Gloves  
-  * If you get your gloves but still lack stones/sticks you can stop and hope for good luck when crafting basic tools. Make sure you have enough to reach 15 crafting though. It takes about 60 total basic tool crafts to hit level 15 crafting from level 1\.  
+* Do Hut Jumping until you have 75 sticks (including what’s in the bank), and until you get the $$Parkour Gloves  
+  * If you get your gloves but still lack sticks you can stop and hope for good luck when crafting basic tools. Make sure you have enough to reach 15 crafting though. It takes about 60 total basic tool crafts to hit level 15 crafting from level 1\.  
 * Go South from Coldington to the Horn of Respite and do Search Team until you have 30 tokens worth of pins/tags (pins are worth 2, tags are worth 10\) and get the **\!\!Alien Squeaky Toy**  
+* Go Southwest to Sanguine Hills and do Stone Quarry until you find your first pet, the **\!\!Pet Rock**. Begin hatching him as soon as you get him.  
 * Go East from Coldingdon to Port Skildar  
 * Buy a Simple Life Vest, a Fishing Lure, and a **\!\!Rusty Diving Helmet**. Also buy 20 fishing lines for crafting. Sell something you got from Coldington to the Frosthook Emporium (6/20).  
 * Go to Centaham and buy the remaining starter items if you didn’t have them before (Simple Hammer/Wrench/Gold Pan/Chisel/Saw/2x Sewing Needle)  
@@ -172,7 +173,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 13/17 | 2/36 | 0/20 | 0/1  
-  Collectibles: 1/47 | Total Achievement Points: 20  
+  Collectibles: 1/52 | Total Achievement Points: 20  
   Agility: 40  
   Fishing: 10 | Foraging: 30 | Hunting: 5 | Mining: 15 | Woodcutting: 30  
   Carpentry: 25 | Cooking: 10| Crafting: 20 | Smithing: 15 | Tailoring: 1 | Trinketry: 1
@@ -196,7 +197,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 13/17 | 2/36 | 0/20 | 0/1  
-  Collectibles: 2/47 | Total Achievement Points: 21  
+  Collectibles: 2/52 | Total Achievement Points: 21  
   Agility: 40  
   Fishing: 10 | Foraging: 30 | Hunting: 35 | Mining: 15 | Woodcutting: 30  
   Carpentry: 25 | Cooking: 10| Crafting: 20 | Smithing: 15 | Tailoring: 25 | Trinketry: 1
@@ -219,12 +220,12 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Barbantok and do Wood Carving for a **\!\!Carving Knife**, the \#\#Wooden Carved Bear Figurine **\[Collectible 4\]** and Carpentry to level 20 if not there.  
 * Do Tinkering for a **\!\!Wire Saw**, the \#\#Silver Pocket Watch **\[Collectible 5\]**, 200 times for a screwdriver bonus, and level 45 Crafting  
 * Return to Kallaheim and with your best **No Materials/Double Rewards Carpentry** gear turn Spruce Logs into Planks until you have 25 planks.  
-* (OPTIONAL) If you got the Wire Saw and you have enough materials, try and get your trinketry up to level 12 to equip it. Create Jarvonian Flower Necklaces and shape all of your Rough Opals. If you got to level 5 but not to level 8, make 1-4 Silver Rings to hit level 8\. Once at level 8, shape all of your Star Pearls. If you got to level 10 but did not get to 12, you can make Silver Opal Rings to hit level 12 (or 14 to unlock Bronze Chisels). The only Trinketry Bench is in Winter’s End at the southern tip of Jarvonia, so you’ll need to do your work there\!
+* (OPTIONAL) If you got the Wire Saw and you have enough materials, try and get your trinketry up to level 12 to equip it. Create Jarvonian Flower Necklaces and shape all of your Rough Opals. If you got to level 5 but not to level 8, make 1-4 Silver Rings to hit level 8\. Once at level 8, shape all of your Star Pearls. If you got to level 10 but did not get to 12, you can make Silver Opal Rings to hit level 12 (or 14 to unlock Bronze Chisels). The only Trinketry Bench is in Winter’s End at the southern tip of Jarvonia, so you’ll need to do your work there\! Make sure your Pet Rock is equipped\!
 
 *Checkpoint*
 
   Achievements: 14/17 | 4/36 | 0/20 | 0/1  
-  Collectibles: 5/47 | Total Achievement Points: 31  
+  Collectibles: 5/52 | Total Achievement Points: 31  
   Agility: 45  
   Fishing: 25 | Foraging: 30 | Hunting: 35 | Mining: 35 | Woodcutting: 30  
   Carpentry: 30 | Cooking: 10 | Crafting: 45 | Smithing: 20 | Tailoring: 25 | Trinketry: 1
@@ -257,7 +258,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 14/17 | 5/36 | 0/20 | 0/1  
-  Collectibles: 6/47 | Total Achievement Points: 35  
+  Collectibles: 6/52 | Total Achievement Points: 35  
   Agility: 50  
   Fishing: 40 | Foraging: 45 | Hunting: 35 | Mining: 45 | Woodcutting: 45  
   Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
@@ -302,7 +303,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 14/17 | 5/36 | 0/20 | 0/1  
-  Collectibles: 6/47 | Total Achievement Points: 35  
+  Collectibles: 6/52 | Total Achievement Points: 35  
   Agility: 50  
   Fishing: 40 | Foraging: 45 | Hunting: 35 | Mining: 45 | Woodcutting: 45  
   Carpentry: 45 | Cooking: 40 | Crafting: 45 | Smithing: 47 | Tailoring: 40 | Trinketry: 1
@@ -311,7 +312,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 
 * First let's get our Hydrilium Diving Set. The set does not gain too many stats from quality upgrades so we won’t be spending time farming out hundreds of Hydrilium to get high quality.  
 * With your best **Underwater Efficiency Mining** gear, go north from Vastalume to the Underwater Cave and Mine Volcanic Rock for 12 Volcanic Rocks  
-* Return to Vastalume and with your best **Underwater Crafting** gear turn those 12 Volcanic Rocks and 12 leftover Hardened Kelp from the previous step into 6 Hydrilium. Then using your best **Underwater Quality Outcome Smithing** gear, create one of each of the Expert Diving Set (Hydrilium Diving xxx)  
+* Return to Vastalume and with your best **Underwater Crafting** gear turn those 12 Volcanic Rocks and 6 leftover Hardened Kelp from the previous step into 6 Hydrilium. Then using your best **Underwater Quality Outcome Smithing** gear, create one of each of the Expert Diving Set (Hydrilium Diving xxx)  
 * Return to Vastalume and with your best **Underwater Efficiency/Fine Item Agility** gear do Merfolk Dancing for the $$Merfolk Dress, a $$Dolphin Egg, the \#\#Letter from A. A. **\[Collectible 7\]**, and **Syrenthia Faction Reputation Level 3**  
   * Sell an item to each of the 3 shops in Vastalume: Pearl of the Sea, Sunken Anchor, Undercurrent (10/20).  
   * Start hatching and leveling your Dolphin once you get it  
@@ -343,7 +344,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 14/17 | 6/36 | 1/20 | 0/1  
-  Collectibles: 7/47 | Total Achievement Points: 44  
+  Collectibles: 7/52 | Total Achievement Points: 44  
   Agility: 50  
   Fishing: 40 | Foraging: 48 | Hunting: 35 | Mining: 47 | Woodcutting: 46  
   Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
@@ -374,7 +375,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 15/17 | 7/36 | 1/20 | 0/1  
-  Collectibles: 9/47 | Total Achievement Points: 50  
+  Collectibles: 9/52 | Total Achievement Points: 50  
   Agility: 50  
   Fishing: 40 | Foraging: 48 | Hunting: 35 | Mining: 47 | Woodcutting: 46  
   Carpentry: 46 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
@@ -398,14 +399,14 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Old Arena Ruins and do Lizard Hunting for 60 Lizard Tails. If you have spare Copper/Bronze arrows, use all but 1 for a chance at the $$Gecko Egg.   
 * (OPTIONAL) If you run out of arrows before finding the egg, you can either come back later with more arrows or Mine Coal. Mining Coal is more AFK friendly but will take more steps on average compared to farming arrows and doing Lizard Hunting.  
 * Return to Halfmaw Hideout/Bilgemont Port and equip your best **Efficiency Foraging** gear along with your Jellyfishing (or Bug Catching) Net.  
-* Go Southwest, then West to Warrenfield and do Butterfly Catching for **\!\!Fireflies in a Jar**, the \#\#Blue Lotus Butterfly **\[Collectible 12\]**, a **\!\!Chicken Egg**, 100 Honeycombs, and 1000 total wheat (including what’s in your bank) **\[Normal Achievements 11, 12, 13\]**  
+* Go Southwest, then West to Warrenfield and do Butterfly Catching for **\!\!Fireflies in a Jar**, the \#\#Blue Lotus Butterfly **\[Collectible 12\]**, a $$Chicken Egg, 100 Honeycombs, and 1000 total wheat (including what’s in your bank) **\[Normal Achievements 11, 12, 13\]**  
   * Once you get your Chicken Egg start hatching it. If it hatches before you are finished with Butterfly Catching equip it while butterfly catching  
   * If you can’t bank at Halfmaw Hideout the closest bank is at Bilgemont Port.
 
 *Checkpoint*
 
   Achievements: 15/17 | 13/36 | 1/20 | 0/1  
-  Collectibles: 12/47 | Total Achievement Points: 71  
+  Collectibles: 12/52 | Total Achievement Points: 71  
   Agility: 55  
   Fishing: 55 | Foraging: 55 | Hunting: 54 | Mining: 47 | Woodcutting: 50  
   Carpentry: 48 | Cooking: 40| Crafting: 58 | Smithing: 48 | Tailoring: 40 | Trinketry: 1
@@ -441,7 +442,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 14/36 | 1/20 | 0/1  
-  Collectibles: 12/47 | Total Achievement Points: 77  
+  Collectibles: 12/52 | Total Achievement Points: 77  
   Agility: 57  
   Fishing: 55 | Foraging: 55 | Hunting: 56 | Mining: 47 | Woodcutting: 51  
   Carpentry: 49 | Cooking: 40 | Crafting: 58 | Smithing: 48 | Tailoring: 45 | Trinketry: 1
@@ -460,7 +461,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Go to Old Arena Ruins and do Kayaking for a **\!\!Lucky Rabbit Foot Trinket** and a $$Tortoise Egg  
   * Start hatching your Tortoise Egg and equip the Tortoise pet for any non-agility activity.  
 * Go to Granfiddich and buy all 10 Tomatoes. Also buy what you’re missing from the following list: 1 chocolate, 2 milk/eggs/potatoes, and a **\!\!Sharp Knife**  
-* Return to Salsfirth, equip your best **No Material/Double Rewards Carpentry** gear and 3 light sources. It takes 10 Wood Scrap or two of any Plank (Willow or lower) to make a Box Trap. Take out enough material to make 300 Box Traps.  
+* Return to Salsfirth, equip your best **No Material/Double Rewards Carpentry** gear and 3 light sources. It takes two of any Plank (Willow or lower) or 10 wood scrap (turning the 10 scrap into 2 Birch Planks) to make a Box Trap. Take out enough material to make 300 Box Traps.  
 * Go to Halfling Campground and make the Box Traps.  
 * Return to Salsfirth, equip your best **No Material/Double Rewards Cooking** gear and cook your Wheat into Bread until you have 1000 Bread **\[Normal Achievement 15\], \[Hard Achievement 3\]**.  
   * If you did not reach level 45 Cooking, cook fish until you hit that level. Swordfish, Trout, Jellyfish and Lobsters give decent XP/Step  
@@ -485,7 +486,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 15/36 | 3/20 | 0/1  
-  Collectibles: 13/47 | Total Achievement Points: 90  
+  Collectibles: 13/52 | Total Achievement Points: 90  
   Agility: 57  
   Fishing: 55 | Foraging: 55 | Hunting: 56 | Mining: 47 | Woodcutting: 51  
   Carpentry: 58 | Cooking: 55 | Crafting: 58 | Smithing: 55 | Tailoring: 58 | Trinketry: 55
@@ -520,7 +521,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 21/36 | 3/20 | 0/1  
-  Collectibles: 15/47 | Total Achievement Points: 110  
+  Collectibles: 15/52 | Total Achievement Points: 110  
   Agility: 57  
   Fishing: 55 | Foraging: 55 | Hunting: 59 | Mining: 47 | Woodcutting: 50  
   Carpentry: 58 | Cooking: 55 | Crafting: 58 | Smithing: 55 | Tailoring: 59 | Trinketry: 55
@@ -578,7 +579,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 24/36 | 5/20 | 0/1  
-  Collectibles: 19/47 | Total Achievement Points: 133  
+  Collectibles: 19/52 | Total Achievement Points: 133  
   Agility: 60  
   Fishing: 57 | Foraging: 55 | Hunting: 60 | Mining: 50 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 55 | Crafting: 58 | Smithing: 56 | Tailoring: 60 | Trinketry: 55
@@ -611,7 +612,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 28/36 | 6/20 | 0/1  
-  Collectibles: 21/47 | Total Achievement Points: 152 (Cape of Half-Achiever\!)  
+  Collectibles: 21/52 | Total Achievement Points: 152 (Cape of Half-Achiever\!)  
   Agility: 65  
   Fishing: 57 | Foraging: 55 | Hunting: 60 | Mining: 60 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 56 | Crafting: 58 | Smithing: 56 | Tailoring: 60 | Trinketry: 55
@@ -644,7 +645,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 31/36 | 6/20 | 0/1  
-  Collectibles: 27/47 | Total Achievement Points: 167  
+  Collectibles: 27/52 | Total Achievement Points: 167  
   Agility: 65  
   Fishing: 60 | Foraging: 60 | Hunting: 61 | Mining: 61 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 57 | Crafting: 58 | Smithing: 59 | Tailoring: 60 | Trinketry: 55
@@ -686,7 +687,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 31/36 | 13/20 | 0/1  
-  Collectibles: 28/47 | Total Achievement Points: 203  
+  Collectibles: 28/52 | Total Achievement Points: 203  
   Agility: 80  
   Fishing: 60 | Foraging: 58 | Hunting: 61 | Mining: 61 | Woodcutting: 50  
   Carpentry: 59 | Cooking: 56 | Crafting: 58 | Smithing: 59 | Tailoring: 60 | Trinketry: 67
@@ -715,6 +716,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
   * This should also complete the 5000 ectoplasm achievement **\[Hard Achievement 15\]**  
 * Buy the **\!\!Charter of the Drowned \[Collectible 30\]**  
 * Equip your best **Find Collectibles Foraging** gear and go South twice to Blackwater Fields  
+* Go SouthEast to discover Blackwater Lake and return to Blackwater Fields  
 * Do Dragonfly Catching for **\!\!Dragonfly Catching Net**, \#\#Brilliant Emerald Dragonfly **\[Collectible 31\]** (and a chance at a Rare Chicken Egg)  
   * If you need to bank you can do so to the south in Blackrane  
 * Return to Blackrane and equip your best **Efficiency Net Fishing** gear  
@@ -724,12 +726,13 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Equip your Camel Pet, go West to Myriadian Arc **\[Normal Achievement 33\]** and buy a $$Spice Rackpack (12,500 coins)  
 * While in Wrentmark you must keep your Camel equipped.  
 * Equip your best **Find Collectibles Mining** gear and go North to Crown of Cinders  
+  * (OPTIONAL) If you have at least 220 achievement points and a good stockpile of adventurer’s tokens, first equip your best **Efficiency Hunting** gear and go Northwest from the Crown of Cinders to Cactus Canyon. Do Twophointoh Hunt 10 times and buy the **\!\!Zorre’s Desert Gourdpack** for 750 Adventurer’s Tokens from the Adventurer’s Guild Miragepost. Just visiting the zone unlocks massive bonuses for the Quickdraw Map, and the gourdpack is an amazing item for the Backpack slot while in Wrentmark.  
 * Mine Crystal Coal for a \#\#Rose Quartz **\[Collectible 33\]** (and a chance at a Rare Camel Egg)
 
 *Checkpoint*
 
   Achievements: 17/17 | 33/36 | 15/20 | 0/1  
-  Collectibles: 33/47 | Total Achievement Points: 224
+  Collectibles: 33/52 | Total Achievement Points: 224
 
 ## **Completing crafting Achievements and other grinds**
 
@@ -763,7 +766,7 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 *Checkpoint*
 
   Achievements: 17/17 | 36/36 | 20/20 | 1/1  
-  Collectibles: 34/47 | Total Achievement Points: 269 (Cape of Achiever\!)
+  Collectibles: 34/52 | Total Achievement Points: 269 (Cape of Achiever\!)
 
 ## **Endgame Grinds**
 
@@ -826,6 +829,15 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * Max Efficiency: 180  
 * \#\#Swampman Article (W.E.A.R.: \~215,000)
 
+### **Cactus Canyon: Twophointoh Hunt** (Hunting) \- Need Camel Pet equipped
+
+* Max Efficiency: 240  
+* \#\#Petrified Desert Flower (W.E.A.R.: \~222,000)  
+* \#\#Fractured Compass (W.E.A.R.: \~442,000)  
+* \#\#Ancient Stone Tablet (W.E.A.R.: \~884,000)  
+* \#\#Sand Globe (W.E.A.R.: \~1,787,000)  
+* \#\#Artificial Sand Grain (W.E.A.R.: \~3,500,000)
+
 ### **Reputation**
 
 * Jarvonia (can be farmed by Sledding or Cleaning the Holy Water Fountain, 100 completions per point)  
@@ -860,13 +872,17 @@ We'll be focusing on rare activity drops/collectibles as well as filling out our
 * **Ice Sculpting** (45 steps minimum, Crafting/Carpentry Chests) \- Almost no loot to clog up your inventory. Crafting Chest gear is highly desirable for the Quality Outcome stat it provides.  
 * **Guard Duty** (54 steps minimum, Agility Chests) \- Also no inventory clogging loot drops. Good source of Agility XP, one of the best sources of coins for the 1m coin achievement, best natural W.E.A.R. for Gem Pouches too. Though the higher minimum step count means special loot table rolls will be less than half than what you’d get from Cutting Birch Trees.
 
+### **Special Item: Hat of Wisdom**
+
+* Unlocked with 280 Achievement Points.  If you wear this item, every 1234 steps you take will give you an ability which gives two random Memospheres. This is an amazing way to level your skills. Works best when doing Artisan skills as the item itself gives a massive XP boost to Artisan skills. This is different from the other special loot table farming goals because this is purely based on step count, steps per completion don’t matter.
+
 ### **Improving Crafted Equipment**
 
 * You could always spend millions of steps making better quality tools and jewelry  
-  * Before dedicating heavily to this, it’s a good idea to farm chests for quality outcome gear. For example Crafting chests can drop a Candlehat which has a huge \+30 boost to quality outcome.  
+  * Before dedicating to this, it’s a good idea to farm chests for quality outcome gear. For example Crafting chests drop the Candlehat which has a \+30 boost to quality outcome.  
+  * You may also want to get a Golden Frog pet (300 point achievement reward) to adulthood as his ability will add \+20 Quality Outcome to the next 20 crafts by paying him 1000 gold coins.  
   * Also remember that if you’re looking for high quality crafts, ONLY use fine materials  
-* Adamant Ore/Crystal Coal/Yew Logs for Hatchets and Pickaxes  
-  * Technically Violite is the highest tier of ore, but as there is no way to farm Mahogany Logs (and therefore no way to get Fine Mahogany Planks) you’re better off sticking to Adamant for now. Sickles have no Adamant variant, so you could try your luck at Violite instead of Spectral.  
+* Violite Ore/Crystal Coal/Mahoagany Logs/Ironweed for Hatchets/Pickaxes/Sickles  
 * Bones/Ectoplasm for ANY spectral tool/gear, many of them are Best in Slot or close to it  
   * Especially Wrenches, Chisels, Sickles, Fishing tools, Needles, and Tailored gear  
 * Kelp/Volcanic Rock for Diving Equipment  
